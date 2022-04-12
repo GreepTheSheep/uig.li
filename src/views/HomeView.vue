@@ -2,7 +2,9 @@
 </script>
 
 <template>
-    <main>
-        <img src="@/assets/front.png" alt="">
-    </main>
+    a
 </template>
+
+<style>
+@import '@/assets/base.css';
+</style>
