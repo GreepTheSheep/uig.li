@@ -1,9 +1,8 @@
-<script setup>
-import TheWelcome from '@/components/TheWelcome.vue'
+<script>
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+    <main>
+        <img src="@/assets/front.png" alt="">
+    </main>
 </template>
