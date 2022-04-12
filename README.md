@@ -1,7 +1,7 @@
 # uig.li
 The ZrT Trackmania Cup 2022 Website
 
-![uig.li](images/front.png)
+![uig.li](src/assets/front.png)
 
 ## Why?
 
