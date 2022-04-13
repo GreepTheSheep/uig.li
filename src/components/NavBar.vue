@@ -17,8 +17,8 @@ export default {
     methods: {
         changeMap(event) {
             let optionSelected = event.target.value;
-            //this.$router.push('/map/' + optionSelected);
-            window.location.hash = "/map/" + optionSelected;
+            this.$router.push('/map/' + optionSelected);
+            window.location.reload();
         },
         returnHome() {
             let select = document.getElementById('mapselect');
